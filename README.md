@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi friend 👋
+
+I'm an energetic, result focused and goal oriented frontend developer with more than four years of experience developing highly scalable and robust application. My stacks include Typescript:string, Angular*NgFor, React[...Reacts, {id:React.length+1, title:React}], Javascript, Node, Express, MongoDB. 
+I'm currently honing my DevOps skills and looking forward to solving your challenges with my skills
 
 <!--
 **ayangalu/ayangalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
