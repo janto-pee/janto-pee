@@ -1,6 +1,6 @@
 ### Hi friend 👋
 
-I'm an energetic, result focused and goal oriented frontend developer with more than four years of experience developing highly scalable and robust application. My stacks include Typescript: 🌱string , Angular ⚡*NgFor , React 🌱[...Reacts, {id:React.length+1, title:React}] , Javascript, 🌱Node, Express, MongoDB. 
+I'm a result focused and goal oriented frontend developer with more than four years of experience developing highly scalable and robust application. My stacks include Typescript: 🌱string , Angular ⚡*NgFor , React 🌱[...Reacts, {id:React.length+1, title:React}] , Javascript, 🌱Node, Express, MongoDB. 
 I'm currently honing my DevOps skills and looking forward to solving your challenges with my skills
 
 <!--
@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janto-pee&show_icons=true&theme=radical)
+
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=janto-pee&show_icons=true&theme=radical" />
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=janto-pee&layout=compact" />
+
 -->
+
