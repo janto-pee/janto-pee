@@ -1,13 +1,13 @@
 
 # Hey friend 👋 , I'm Ayobami Adejumo
 
-### ⚡️About Me
+### About Me
 
 I was born to Nigeria parents in the construction industry and i wanted to be a civil engineer. Guess what, I did. I graduated top 10% of my department as a civil Engineer. And then something happened in my final year. 
 
-I infected my system with a virus and my project file was corrupted. In trying to get back my project for presentation, I discovered myself. Ever since, my hands have been glued to this keyboard.
+I infected🤔 my system with a virus and my project file was corrupted. In trying to get back my project for presentation, I discovered myself. Ever since, my hands have been glued to this keyboard.
 
-### ⚡️Quick Fact
+### Quick Fact
 - Trained at ExxonMobil 
 - Software Engineer at Gammalance Technologies 🥑
 - Founder Indigo Talents
