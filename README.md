@@ -5,7 +5,7 @@
 
 I was born to Nigeria parents in the construction industry and i wanted to be a civil engineer. Guess what, I did. I graduated top 10% of my department as a civil Engineer. And then something happened in my final year. 
 
-I infected my system with a virus and my project file was corrupted. In trying to get back my project for presentation, I discovered myself. Ever since, my hands have been glued to this keyboard. 🔥✈️
+I infected my system with a virus and my project file was corrupted. In trying to get back my project for presentation, I discovered myself. Ever since, my hands have been glued to this keyboard.
 
 ### ⚡️Quick Fact
 - Trained at ExxonMobil 
@@ -53,8 +53,7 @@ I infected my system with a virus and my project file was corrupted. In trying t
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
-### Technologies I use and/or champion
-[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js)](https://nodejs.dev/)
+### Technologies I champion
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&labelColor=black&logo=webpack)](https://webpack.js.org/)
 [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&labelColor=black&logo=Canva)](https://www.canva.com/)
 [![MailChimp](https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&labelColor=black&logo=MailChimp)](https://mailchimp.com/)
@@ -80,7 +79,6 @@ I infected my system with a virus and my project file was corrupted. In trying t
 [![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&labelColor=black&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&labelColor=black&logo=typescript)](https://www.typescriptlang.org/)
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&labelColor=black&logo=prettier)](https://prettier.io/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&labelColor=black&logo=mongodb)](https://www.mongodb.com/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat-square&labelColor=black&logo=StackOverflow)](https://stackoverflow.com/company)
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&labelColor=black&logo=freeCodeCamp)](https://www.freecodecamp.org)
 [![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&labelColor=black&logo=Udemy)](https://www.udemy.com/)
