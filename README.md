@@ -3,14 +3,14 @@
 
 ### About Me
 
-I was born to Nigeria parents in the construction industry and i wanted to be a civil engineer. Guess what, I did. I graduated top 10% of my department as a civil Engineer. And then something happened in my final year. 
+I was born in Nigeria to a construction daddy. Hence, my desire to become a civil engineer. Guess what, I did. I graduated top 10% of my department with a Bachelor of Engineering in civil Engineering. But something happened in my final year that altered my life permanently. 
 
-I infected🤔 my system with a virus and my project file was corrupted. In trying to get back my project for presentation, I discovered myself. Ever since, my hands have been glued to this keyboard.
+I infected🤔 my laptop with a virus and my final year project file got corrupt. To make it worse, i had just two days to present it or risk an extra year. In trying to restore my project for presentation, I discovered myself. Ever since my colorful exploit, my hands have been glued to this keyboard.
 
 ### Quick Fact
 - Trained at ExxonMobil 
 - Software Engineer at Gammalance Technologies 🥑
-- Founder Indigo Talents
+- Founder of Indigo Talents
 - Portfolio [Ayobami Adejumo](https://ayobami-adejumo.vercel.app/)
 - Former IT Security Intern at Ministry of Transportation
 - Participant of CommonWealth100 Common Purpose
