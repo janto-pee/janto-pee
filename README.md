@@ -14,7 +14,7 @@
 🥂 Cheers!
 
 ###  Current Activities
-- 🔭 I’m currently working on *developing skills in, Typescript, Javascript, Python, Golang, typescript, side projects, open source*.
+- 🔭 I’m currently working on *developing skills in, Typescript, Javascript, Python, side projects, open source*.
 - 🌱 I’m currently learning anything *related to Javascript, Nodejs, Expressjs, Angular, React, MongoDB.*
 - 🤔 I mentor and teach real world, project-based product development. 
 - 💬 Ask me about *Software Architecture, Software Engineering, Quality Assuarance, Cybersecurity,*
