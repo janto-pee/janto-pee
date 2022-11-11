@@ -13,8 +13,6 @@
 
 🥂 Cheers!
 
-![Ayobami Adejumo](https://ayobami-adejumo.vercel.app/)
-
 ###  Current Activities
 - 🔭 I’m currently working on *developing skills in, Typescript, Javascript, Python, Golang, typescript, side projects, open source*.
 - 🌱 I’m currently learning anything *related to Javascript, Nodejs, Expressjs, Angular, React, MongoDB.*
