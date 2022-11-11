@@ -1,12 +1,6 @@
 
 # Hey friend 👋 , I'm Ayobami Adejumo
 
-### About Me
-
-I was born in Nigeria to a construction daddy. Hence, my desire to become a civil engineer. Guess what, I did. I graduated top 10% of my department with a Bachelor of Engineering in civil Engineering. But something happened in my final year that altered my life permanently. 
-
-I infected🤔 my laptop with a virus and my final year project file got corrupt. To make it worse, i had just two days to present it or risk an extra year. In trying to restore my project for presentation, I discovered myself. Ever since my colorful exploit, my hands have been glued to this keyboard.
-
 ### Quick Fact
 - Trained at ExxonMobil 
 - Software Engineer at Gammalance Technologies 🥑
