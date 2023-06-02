@@ -1,7 +1,7 @@
 
 # Hey friend 👋 , I'm Ayobami Adejumo
 
-### Quick Fact
+<!-- ### Quick Fact
 - Trained at ExxonMobil 
 - Software Engineer at Gammalance Technologies 🥑
 - Founder of Indigo Talents
@@ -13,12 +13,14 @@
 
 🥂 Cheers!
 
+-->
+
 ###  Current Activities
-- 🔭 I’m currently working on *developing skills in, Typescript, Javascript, Python, side projects, open source*.
-- 🌱 I’m currently learning anything *related to Javascript, Nodejs, Expressjs, Angular, React, MongoDB.*
+- 🔭 I’m currently working on *developing skills in, Typescript, Javascript, Python, Go*.
+- 🌱 I’m currently helping people understand software engineering principles*
 - 🤔 I mentor and teach real world, project-based product development. 
-- 💬 Ask me about *Software Architecture, Software Engineering, Quality Assuarance, Cybersecurity,*
-- 📫 How to reach me: Email me at - **ayobami_adejumo@yahoo.com**
+- 💬 Ask me about *Software Architecture, Data Structures, Software Engineering, Quality Assuarance*
+- 📫 How to reach me: Email me at - **aayo.software@gmail.com**
 - ⚡ Fun fact: *I love what i do ❤️* 
 
 ### Languages
@@ -26,7 +28,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-ED8B00?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solidity-ED8B00?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### Skills
