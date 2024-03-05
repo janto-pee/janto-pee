@@ -16,10 +16,10 @@
 -->
 
 ###  Current Activities
-- 🔭 I’m currently working on *developing skills in, Typescript, Javascript, Python, Go*.
-- 🌱 I’m currently helping people understand software engineering principles*
-- 🤔 I mentor and teach real world, project-based product development. 
-- 💬 Ask me about *Software Architecture, Data Structures, Software Engineering, Quality Assuarance*
+- 🔭 I’m currently working on *designing and implementing automated deployment pipeline*.
+- 🌱 I’m currently helping people understand infrastructure monitoring and disaster recovery plans*
+- 🤔 I mentor and teach continuous integration, continuous delivery and configuration management. 
+- 💬 Ask me about *system administration, Collaboration, Automation, Coding and scripting, Cloud skills, Containerization*
 - 📫 How to reach me: Email me at - **aayo.software@gmail.com**
 - ⚡ Fun fact: *I love what i do ❤️* 
 
