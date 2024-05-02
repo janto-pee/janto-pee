@@ -46,7 +46,25 @@
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
-### Technologies I champion
+
+
+## Active Projects
+
+| S.No | Frontend Projects & Deployed Links |
+| ---- | ---------------------------------- |
+| 1.   | Real Estate - Elastic Kubernetes Service          |
+| 2.   | PowerTrain - Elastic Block Store                  |
+| 3.   | Job Listing - Relational Database Service MySQL   |
+| 4.   | Portfolio - Classic Load Balancer                 |
+| 5.   | Admin Dashboard - Network Load Balancer           |
+| 6.   | Ecommerce - Application Load Balancer             |
+| 7.   | Music Streaming Platform - Serverless             |
+| 8.   | Landing Pages - Elastic Container Registry        |
+| 9.   | AWS Developer Tool - CodeCommit                   |
+
+
+
+<!-- ### Technologies I champion
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&labelColor=black&logo=webpack)](https://webpack.js.org/)
 [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&labelColor=black&logo=Canva)](https://www.canva.com/)
 [![MailChimp](https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&labelColor=black&logo=MailChimp)](https://mailchimp.com/)
@@ -102,7 +120,7 @@
 
 
 
-<!--
+
 ### Hi friend 👋
 I'm a result focused and goal oriented frontend developer with more than four years of experience developing highly scalable and robust application. My stacks include Typescript: 🌱string , Angular ⚡*NgFor , React 🌱[...Reacts, {id:React.length+1, title:React}] , Javascript, 🌱Node, Express, MongoDB. 
 I'm currently honing my DevOps skills and looking forward to solving your challenges with my skills
@@ -126,4 +144,9 @@ Here are some ideas to get you started:
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=janto-pee&layout=compact" />
 
 -->
+
+
+
+
+
 
