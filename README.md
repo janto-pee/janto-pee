@@ -54,11 +54,11 @@
 | ---- | ---------------------------------- | ---------------------------------- |
 | 1.   | Real Estate - Elastic Kubernetes Service          | Real Estate - Elastic Kubernetes Service         |
 | 2.   | PowerTrain - Elastic Block Store                  | PowerTrain - Elastic Block Store              |
-| 3.   | Job Listing - Relational Database Service MySQL   |
-| 4.   | Portfolio - Classic Load Balancer                 |
-| 5.   | Admin Dashboard - Network Load Balancer           |
-| 6.   | Ecommerce - Application Load Balancer             |
-| 7.   | Music Streaming Platform - Serverless             |
+| 3.   | Job Listing - Relational Database Service MySQL   | Job Listing - Relational Database Service MySQL   |
+| 4.   | Portfolio - Classic Load Balancer                 | Portfolio - Classic Load Balancer                 |
+| 5.   | Admin Dashboard - Network Load Balancer           | Admin Dashboard - Network Load Balancer           |
+| 6.   | Ecommerce - Application Load Balancer             | Ecommerce - Application Load Balancer             |
+| 7.   | Music Streaming Platform - Serverless             | Music Streaming Platform - Serverless             |
 
 
 
