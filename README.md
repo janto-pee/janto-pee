@@ -62,6 +62,20 @@
 
 
 
+## Active Backend Services
+
+| S.No | Projects |Deployed Links |
+| ---- | ---------------------------------- | ---------------------------------- |
+| 1.   | Real Estate - Elastic Kubernetes Service          | Real Estate - Elastic Kubernetes Service         |
+| 2.   | PowerTrain - Elastic Block Store                  | PowerTrain - Elastic Block Store              |
+| 3.   | Job Listing - Relational Database Service MySQL   | Job Listing - Relational Database Service MySQL   |
+| 4.   | Portfolio - Classic Load Balancer                 | Portfolio - Classic Load Balancer                 |
+| 5.   | Admin Dashboard - Network Load Balancer           | Admin Dashboard - Network Load Balancer           |
+| 6.   | Ecommerce - Application Load Balancer             | Ecommerce - Application Load Balancer             |
+| 7.   | Music Streaming Platform - Serverless             | Music Streaming Platform - Serverless             |
+
+
+
 
 <!-- ### Technologies I champion
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&labelColor=black&logo=webpack)](https://webpack.js.org/)
