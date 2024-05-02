@@ -50,17 +50,16 @@
 
 ## Active Projects
 
-| S.No | Frontend Projects & Deployed Links |
-| ---- | ---------------------------------- |
-| 1.   | Real Estate - Elastic Kubernetes Service          |
-| 2.   | PowerTrain - Elastic Block Store                  |
+| S.No | Frontend Projects & Deployed Links | Frontend Projects & Deployed Links |
+| ---- | ---------------------------------- | ---------------------------------- |
+| 1.   | Real Estate - Elastic Kubernetes Service          | Real Estate - Elastic Kubernetes Service         |
+| 2.   | PowerTrain - Elastic Block Store                  | PowerTrain - Elastic Block Store              |
 | 3.   | Job Listing - Relational Database Service MySQL   |
 | 4.   | Portfolio - Classic Load Balancer                 |
 | 5.   | Admin Dashboard - Network Load Balancer           |
 | 6.   | Ecommerce - Application Load Balancer             |
 | 7.   | Music Streaming Platform - Serverless             |
-| 8.   | Landing Pages - Elastic Container Registry        |
-| 9.   | AWS Developer Tool - CodeCommit                   |
+
 
 
 
