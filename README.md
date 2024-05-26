@@ -69,13 +69,13 @@
 
 | S.No | Projects |Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | Go + Gin + SQLC Backend Service          | [Preview Gin web service on Heroku](https://react-tailwind-portfolio-rust.vercel.app/)          |
-| 2.   | Node.js,  Express, MongoDB, Docker + Kubernetes               | [Preview Node web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/)              |
-| 3.   | Python + DRF + Github Actions + AWS   | [Preview Python web API on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    |
-| 4.   | Node.js, TypeORM, Postgress                | [Preview Node Postgress web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
+| 1.   | Go + Gin + Terraform Iac          | [Preview Gin web service on Heroku](https://react-tailwind-portfolio-rust.vercel.app/)          |
+| 2.   | Node.js, Docker + Kubernetes               | [Preview Node web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/)              |
+| 3.   | Python + DRF, Github Actions + AWS   | [Preview Python web API on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    |
+| 4.   | Node.js, TypeORM, ECR, EKS                | [Preview Node Postgress web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
 | 5.   | Python + DRF + Docker + Github Actions          | [Preview Python DRF on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
-| 6.   | Node.js GraphQL             | [Preview Graphql on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
-| 7.   | Go, Gin, GORM             | [Preview Gin GORM on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
+| 6.   | Node.js GraphQL + Github Actions            | [Preview Graphql on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
+| 7.   | Go, Gin, GORM + Terraform, Github Actions            | [Preview Gin GORM on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
 
 
 
