@@ -52,13 +52,13 @@
 | S.No | Frontend Projects Title | Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
 | 1.   | React Portfolio         | [Preview Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)         |
-| 2.   | Online Booking System                 | [Preview Booking System on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)                 |
+| 2.   | Online Booking System                 | [Preview Booking System on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)                 |
 | 3.   | Job Listing - Relational Database Service MySQL   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 4.   | Higher Learning Platform                | [Preview Higher Learning Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 4.   | Higher Learning Platform                | [Preview Higher Learning Platform on CloudFlare](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 5.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 6.   | Real Estate Listings            | [Preview Real Estate Listings on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 7.   | NFT Platform            | [Preview NFT Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 8.   | Admin Dashboard           | [Preview Admin Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 6.   | Real Estate Listings            | [Preview Real Estate Listings on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 7.   | NFT Platform            | [Preview NFT Platform on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 8.   | Admin Dashboard           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 9.   | Next.js Blogging Platform         | [Preview Blogging Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
 | 10.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
 | 11.  | Next.js Portfolio         | [Preview Next.js Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
@@ -71,7 +71,7 @@
 | ---- | ---------------------------------- | ---------------------------------- |
 | 1.   | Go + Gin + Terraform Iac          | [Preview Gin web service on Heroku](https://react-tailwind-portfolio-rust.vercel.app/)          |
 | 2.   | Node.js, Docker + Kubernetes               | [Preview Node web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/)              |
-| 3.   | Python + DRF, Github Actions + AWS   | [Preview Python web API on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    |
+| 3.   | Python + DRF, Github Actions + AWS   | [Preview Python web API on renderer](https://react-tailwind-portfolio-rust.vercel.app/)    |
 | 4.   | Node.js, TypeORM, ECR, EKS                | [Preview Node Postgress web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
 | 5.   | Python + DRF + Docker + Github Actions          | [Preview Python DRF on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
 | 6.   | Node.js GraphQL + Github Actions            | [Preview Graphql on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
