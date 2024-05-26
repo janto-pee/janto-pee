@@ -1,5 +1,5 @@
 
-# Hey friend 👋 , I'm Ayobami Adejumo
+# Hey friend 👋 , I'm Janto-Pee
 
 <!-- ### Quick Fact
 - Trained at ExxonMobil 
@@ -16,10 +16,9 @@
 -->
 
 ###  Current Activities
-- 🔭 I’m currently working on *designing and implementing automated deployment pipeline*.
-- 🌱 I’m currently helping people understand infrastructure monitoring and disaster recovery plans*
-- 🤔 I mentor and teach continuous integration, continuous delivery and configuration management. 
-- 💬 Ask me about *system administration, Collaboration, Automation, Coding and scripting, Cloud skills, Containerization*
+- 🔭 I’m currently working on *full stack development and implementing automated deployment pipeline*.
+- 🤔 I teach end to end fullstack dev, continuous integration and continuous delivery. 
+- 💬 Ask me about *frontend, backend, CI/CD, Cloud skills, Containerization*
 - 📫 How to reach me: Email me at - **aayo.software@gmail.com**
 - ⚡ Fun fact: *I love what i do ❤️* 
 
@@ -50,15 +49,19 @@
 
 ## Active Projects
 
-| S.No | Frontend Projects & Deployed Links | Frontend Projects & Deployed Links |
+| S.No | Frontend Projects Title | Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | Real Estate - Elastic Kubernetes Service          | Real Estate - Elastic Kubernetes Service         |
-| 2.   | PowerTrain - Elastic Block Store                  | PowerTrain - Elastic Block Store              |
-| 3.   | Job Listing - Relational Database Service MySQL   | Job Listing - Relational Database Service MySQL   |
-| 4.   | Portfolio - Classic Load Balancer                 | Portfolio - Classic Load Balancer                 |
-| 5.   | Admin Dashboard - Network Load Balancer           | Admin Dashboard - Network Load Balancer           |
-| 6.   | Ecommerce - Application Load Balancer             | Ecommerce - Application Load Balancer             |
-| 7.   | Music Streaming Platform - Serverless             | Music Streaming Platform - Serverless             |
+| 1.   | React Portfolio         | [Preview Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)         |
+| 2.   | Online Booking System                 | [Preview Booking System on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)                 |
+| 3.   | Job Listing - Relational Database Service MySQL   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 4.   | Higher Learning Platform                | [Preview Higher Learning Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 5.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 6.   | Real Estate Listings            | [Preview Real Estate Listings on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 7.   | NFT Platform            | [Preview NFT Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 8.   | Admin Dashboard           | [Preview Admin Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 9.   | Next.js Blogging Platform         | [Preview Blogging Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
+| 10.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
+| 11.  | Next.js Portfolio         | [Preview Next.js Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
 
 
 
@@ -66,13 +69,13 @@
 
 | S.No | Projects |Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | Real Estate - Elastic Kubernetes Service          | Real Estate - Elastic Kubernetes Service         |
-| 2.   | PowerTrain - Elastic Block Store                  | PowerTrain - Elastic Block Store              |
-| 3.   | Job Listing - Relational Database Service MySQL   | Job Listing - Relational Database Service MySQL   |
-| 4.   | Portfolio - Classic Load Balancer                 | Portfolio - Classic Load Balancer                 |
-| 5.   | Admin Dashboard - Network Load Balancer           | Admin Dashboard - Network Load Balancer           |
-| 6.   | Ecommerce - Application Load Balancer             | Ecommerce - Application Load Balancer             |
-| 7.   | Music Streaming Platform - Serverless             | Music Streaming Platform - Serverless             |
+| 1.   | Go + Gin + SQLC Backend Service          | Real Estate - Elastic Kubernetes Service         |
+| 2.   | Node.js,  Express, MongoDB, Docker + Kubernetes               | PowerTrain - Elastic Block Store              |
+| 3.   | Python + DRF + Github Actions + AWS   | Job Listing - Relational Database Service MySQL   |
+| 4.   | Node.js, TypeORM, Postgress                | Portfolio - Classic Load Balancer                 |
+| 5.   | Python + DRF + Docker + Github Actions          | Admin Dashboard - Network Load Balancer           |
+| 6.   | Node.js GraphQL             | Ecommerce - Application Load Balancer             |
+| 7.   | Go, Gin, GORM             | Music Streaming Platform - Serverless             |
 
 
 
