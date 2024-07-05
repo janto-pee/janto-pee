@@ -53,7 +53,7 @@
 
 | S.No | Frontend Projects Title | Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | React Portfolio         | [Preview Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)         |
+| 1.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
 | 2.   | Online Booking System                 | [Preview Booking System on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)                 |
 | 3.   | Job Listing - Relational Database Service MySQL   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 4.   | Higher Learning Platform                | [Preview Higher Learning Platform on CloudFlare](https://react-tailwind-portfolio-rust.vercel.app/)      |
