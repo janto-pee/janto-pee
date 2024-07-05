@@ -19,8 +19,8 @@
 
 ###  Current Activities
 - 🔭 I’m currently working on *software product development and implementing automated deployment pipeline*.
-- 🤔 I teach end to end fullstack dev, continuous integration and continuous delivery. 
-- 💬 Ask me about *frontend, backend, CI/CD, Cloud skills, Containerization*
+- 🤔 I teach end to end startup development from requirement gathering to production
+- 💬 Ask me about *system design, frontend, backend, CI/CD, Cloud skills, Containerization*
 - 📫 How to reach me: Email me at - **atomicstartups@gmail.com**
 - ⚡ Fun fact: *I love what i do ❤️* 
 
