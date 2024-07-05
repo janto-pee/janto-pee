@@ -13,7 +13,6 @@
 
 🥂 Cheers!
 
--->
 
 ###  Current Activities
 - 🔭 I’m currently working on *full stack development and implementing automated deployment pipeline*.
@@ -21,6 +20,9 @@
 - 💬 Ask me about *frontend, backend, CI/CD, Cloud skills, Containerization*
 - 📫 How to reach me: Email me at - **aayo.software@gmail.com**
 - ⚡ Fun fact: *I love what i do ❤️* 
+
+
+-->
 
 ### Languages
 <div style="display:flex;flex-direction:row">
