@@ -14,15 +14,15 @@
 🥂 Cheers!
 
 
-###  Current Activities
-- 🔭 I’m currently working on *full stack development and implementing automated deployment pipeline*.
-- 🤔 I teach end to end fullstack dev, continuous integration and continuous delivery. 
-- 💬 Ask me about *frontend, backend, CI/CD, Cloud skills, Containerization*
-- 📫 How to reach me: Email me at - **aayo.software@gmail.com**
-- ⚡ Fun fact: *I love what i do ❤️* 
-
 
 -->
+
+###  Current Activities
+- 🔭 I’m currently working on *software product development and implementing automated deployment pipeline*.
+- 🤔 I teach end to end fullstack dev, continuous integration and continuous delivery. 
+- 💬 Ask me about *frontend, backend, CI/CD, Cloud skills, Containerization*
+- 📫 How to reach me: Email me at - **atomicstartups@gmail.com**
+- ⚡ Fun fact: *I love what i do ❤️* 
 
 ### Languages
 <div style="display:flex;flex-direction:row">
