@@ -60,10 +60,11 @@
 | 5.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 6.   | Real Estate Listings            | [Preview Real Estate Listings on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 7.   | NFT Platform            | [Preview NFT Platform on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 8.   | Admin Dashboard           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 8.   | Music Streaming           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 9.   | Next.js Blogging Platform         | [Preview Blogging Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
-| 10.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
-| 11.  | Next.js Portfolio         | [Preview Next.js Portfolio on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
+| 10.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://vue-portfolio-rust.vercel.app/)    
+| 11.  | Next.js Portfolio         | [Preview Next.js Portfolio on Vercel](https://vercel.com/ayobamis-projects-c8d9116f/next-js-portfolio/8WgeXSE3nkd2VUM3WnkAj8RUqxB7)    
+| 12.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
 
 
 
