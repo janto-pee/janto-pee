@@ -18,11 +18,11 @@
 -->
 
 ###  Current Activities
-- 🔭 I’m currently working on *software product development and implementing automated deployment pipeline*.
-- 🤔 I teach end to end startup development from requirement gathering to production
-- 💬 Ask me about *system design, frontend, backend, CI/CD, Cloud skills, Containerization*
+- 🔭 Experience: 5+ years of experience in software development, with a proven track record of developing and deploying models in production.
+- 🤔 Technical Skills: Proficiency in programming languages and tools such as Python, Typescript, AWS, SQL, Numpy/Scipy/Pandas/Scikit-learn, Keras, PyTorch, Machine Learning Algorithms, Deep Learning, Artificial Neural Networks, Large Language Models (LLMs)
+- 💬 Communication: Effective communication skills with the ability to ship solutions quickly.
 - 📫 How to reach me: Email me at - **atomicstartups@gmail.com**
-- ⚡ Fun fact: *I love what i do ❤️* 
+- ⚡ Fun fact: *I love what i do ❤️* - to wrangle, explore and visualize data with a careful eye for issues that require data cleaning 
 
 ### Languages
 <div style="display:flex;flex-direction:row">
