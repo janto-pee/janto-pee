@@ -32,7 +32,7 @@ module "vpc" {
   version = "1.0"
 
   # VPC Basic Details
-  name = janto pee
+  name = "janto pee"
   cidr = "0.0.0.0/0"   
   azs  = ["worldwide"]
   public_subnets     = ["0.0.0.0/0", "0.0.0.0/0"]
