@@ -15,14 +15,68 @@
 
 
 
--->
+
 
 ###  Current Activities
-- 🔭 Experience: 5+ years of experience in software development, with a proven track record of developing and deploying models in production.
-- 🤔 Technical Skills: Proficiency in programming languages and tools such as Python, Typescript, AWS, SQL, Numpy/Scipy/Pandas/Scikit-learn, Keras, PyTorch, Machine Learning Algorithms, Deep Learning, Artificial Neural Networks, Large Language Models (LLMs)
+- 🔭 Experience: 5+ years of experience in SDLC Automation, Configuration Management & IaC, Monitoring & Logging, Incident Reporting  and Security 
+- 🤔 Technical Skills: Proficiency in programming languages and tools such as TypeScript, Go, Python, Docker, AWS, Kubernetes, Terraform, CloudFormation, Ansible
 - 💬 Communication: Effective communication skills with the ability to ship solutions quickly.
 - 📫 How to reach me: Email me at - **atomicstartups@gmail.com**
-- ⚡ Fun fact: *I love what i do ❤️* - to wrangle, explore and visualize data with a careful eye for issues that require data cleaning 
+- ⚡ Fun fact: *I love what i do ❤️*
+
+- -->
+
+# Create Janto Pee Terraform Module
+module "vpc" {
+  source  = "terraform-aws-modules/vpc/janto-pee"
+  version = "1.0"
+
+  # VPC Basic Details
+  name = janto pee
+  cidr = "0.0.0.0/0"   
+  azs                 = ["worldwide"]
+  public_subnets     = ["0.0.0.0/0", "0.0.0.0/0"]
+  
+
+  #  🔭Experience  Subnets
+  Experience = "5+ years of experience in Full Stack Dev, SDLC Automation, Configuration Management & IaC, Monitoring & Logging, Incident Reporting  and Security"
+
+
+   How to reach me = 
+  ⚡ Fun fact = *I love what i do ❤️* 
+
+  #create_database_nat_gateway_route = true
+  #create_database_internet_gateway_route = true
+
+  # 🤔Technical Skills Subnet - Proficiency in programming languages and tools such as 
+  TypeScript = true
+  Go = true 
+  Python = true 
+  Docker = true 
+  AWS = true 
+  Kubernetes true 
+  Terraform = true 
+  CloudFormation = true 
+  Ansible = true
+
+  # 💬 Communication Subnet - Outbound
+  Communication_skills = "Effective communication skills with the ability to ship solutions quickly."
+
+  # 📫 contact me 
+  contact_subnet_tags = {
+     Email me at = **atomicstartups@gmail.com**
+  }
+
+  private_subnet_tags = {
+    Type = "private-subnets"
+  }
+
+
+  tags = {
+    Owner = "Janto Pee"
+    Environment = "dev"
+  }
+}
 
 ### Languages
 <div style="display:flex;flex-direction:row">
