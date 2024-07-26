@@ -39,7 +39,8 @@ module "vpc" {
   
 
   #  🔭Experience  Subnets
-  Experience = "5+ years of experience in Full Stack Dev, SDLC Automation, Configuration Management & IaC, Monitoring & Logging, Incident Reporting  and Security"
+  Experience = "5+ years of experience in Full Stack Dev, SDLC Automation,
+                Configuration Management & IaC, Monitoring & Logging, Incident Reporting  and Security"
 
 
    How to reach me = 
