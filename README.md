@@ -34,7 +34,7 @@ module "vpc" {
   # VPC Basic Details
   name = janto pee
   cidr = "0.0.0.0/0"   
-  azs                 = ["worldwide"]
+  azs  = ["worldwide"]
   public_subnets     = ["0.0.0.0/0", "0.0.0.0/0"]
   
 
@@ -45,10 +45,6 @@ module "vpc" {
                                            - Monitoring & Logging,
                                            - Incident Reporting
                                            - Security "
-
-
-   How to reach me = 
-  ⚡ Fun fact = *I love what i do ❤️* 
 
   # 🤔Technical Skills Subnet - Proficiency in programming languages and tools such as 
   TypeScript = true
@@ -77,6 +73,7 @@ module "vpc" {
   tags = {
     Owner = "Janto Pee"
     Environment = "dev"
+    ⚡Fun fact = *I love what i do ❤️* 
   }
 }
 ```
