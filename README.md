@@ -25,7 +25,7 @@
 - ⚡ Fun fact: *I love what i do ❤️*
 
 - -->
-
+```t
 # Create Janto Pee Terraform Module
 module "vpc" {
   source  = "terraform-aws-modules/vpc/janto-pee"
@@ -77,7 +77,7 @@ module "vpc" {
     Environment = "dev"
   }
 }
-
+```
 ### Languages
 <div style="display:flex;flex-direction:row">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
