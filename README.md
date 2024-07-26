@@ -39,15 +39,16 @@ module "vpc" {
   
 
   #  🔭Experience  Subnets
-  Experience = "5+ years of experience in Full Stack Dev, SDLC Automation,
-                Configuration Management & IaC, Monitoring & Logging, Incident Reporting  and Security"
+  Experience = "5+ years of experience in  - Full Stack Dev,
+                                           - SDLC Automation,
+                                           - Configuration Management & IaC,
+                                           - Monitoring & Logging,
+                                           - Incident Reporting
+                                           - Security "
 
 
    How to reach me = 
   ⚡ Fun fact = *I love what i do ❤️* 
-
-  #create_database_nat_gateway_route = true
-  #create_database_internet_gateway_route = true
 
   # 🤔Technical Skills Subnet - Proficiency in programming languages and tools such as 
   TypeScript = true
