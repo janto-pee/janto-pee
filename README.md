@@ -1,5 +1,5 @@
 
-# Hey friend 👋 , I'm Janto-Pee
+# Hey friend 👋 , I'm Ayo
 
 <!-- ### Quick Fact
 - Trained at ExxonMobil 
