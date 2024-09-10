@@ -105,19 +105,14 @@ module "vpc" {
 ## Active Projects
 
 | S.No | Frontend Projects Title | Deployed Links |
-| ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | Yard Management Software         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
-| 2.   | Online Booking System                 | [Preview Booking System on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)                 |
-| 3.   | Job Listing - Relational Database Service MySQL   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 4.   | Higher Learning Platform                | [Preview Higher Learning Platform on CloudFlare](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 5.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 6.   | Real Estate Listings            | [Preview Real Estate Listings on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 7.   | NFT Platform            | [Preview NFT Platform on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 8.   | Music Streaming           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 9.   | Next.js Blogging Platform         | [Preview Blogging Platform on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)    
-| 10.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://vue-portfolio-rust.vercel.app/)    
-| 11.  | Next.js Portfolio         | [Preview Next.js Portfolio on Vercel](https://next-js-portfolio-ivory-delta.vercel.app/)    
-| 12.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
+| ---- | ---------------------------------- | ---------------------------------- |               |
+| 1.   | Higher Learning Management System               | [Preview Higher Learning Platform on CloudFlare](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 2.   | Next Generation Recruitment Platform   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 3.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 4.   | NFT Platform            | [Preview NFT Platform on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 5.   | Music Streaming           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
+| 6.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://vue-portfolio-rust.vercel.app/)    
+| 7.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
 
 
 
