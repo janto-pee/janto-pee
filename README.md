@@ -121,11 +121,11 @@ module "vpc" {
 | S.No | Projects |Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
 | 1.   | Higher Learning Platform (Go + Gin + Terraform Iac)          | [Github Link](https://github.com/janto-pee/higher-learning-startup/)          |
-| 2.   | Recruitment Platform (Node.js, Docker + Kubernetes)               | [Preview Node web service on AWS](https://github.com/janto-pee/next-generation-recruitment-platform/)              |
-| 3.   | Automobile Company (Python + DRF, Github Actions + AWS)   | [Preview Python web API on renderer](https://github.com/janto-pee/powertrain-automechanic-startup/)    |
-| 4.   | Fintech App (Node.js, TypeORM, ECR, EKS)                | [Preview Node Postgress web service on AWS](https://github.com/janto-pee/digital-bank-startup/) 
-| 5.   | Travel & Tourism (Go + SQLC + Docker + Github Actions)          | [Preview Python DRF on AWS](https://github.com/janto-pee/travel-tourism-startup/) 
-| 6.   | Music Streaming (Node.js GraphQL + Github Actions)            | [Preview Graphql on Renderer](https://github.com/janto-pee/music-streaming-platform/) 
+| 2.   | Recruitment Platform (Node.js, Docker + Kubernetes)               | [Github Link](https://github.com/janto-pee/next-generation-recruitment-platform/)              |
+| 3.   | Automobile Company (Python + DRF, Github Actions + AWS)   | [Github Link](https://github.com/janto-pee/powertrain-automechanic-startup/)    |
+| 4.   | Fintech App (Node.js, TypeORM, ECR, EKS)                | [Github Link](https://github.com/janto-pee/digital-bank-startup/) 
+| 5.   | Travel & Tourism (Go + SQLC + Docker + Github Actions)          | [Github Link](https://github.com/janto-pee/travel-tourism-startup/) 
+| 6.   | Music Streaming (Node.js GraphQL + Github Actions)            | [Github Link](https://github.com/janto-pee/music-streaming-platform/) 
 
 
 
