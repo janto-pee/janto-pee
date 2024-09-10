@@ -105,7 +105,7 @@ module "vpc" {
 ## Active Projects
 
 | S.No | Frontend Projects Title | Deployed Links |
-| ---- | ---------------------------------- | ---------------------------------- |               |
+| ---- | ---------------------------------- | ---------------------------------- |
 | 1.   | Higher Learning Management System               | [Preview Higher Learning Platform on CloudFlare](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 2.   | Next Generation Recruitment Platform   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
 | 3.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
