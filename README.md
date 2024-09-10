@@ -120,13 +120,12 @@ module "vpc" {
 
 | S.No | Projects |Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | Go + Gin + Terraform Iac          | [Preview Gin web service on Heroku](https://react-tailwind-portfolio-rust.vercel.app/)          |
-| 2.   | Node.js, Docker + Kubernetes               | [Preview Node web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/)              |
-| 3.   | Python + DRF, Github Actions + AWS   | [Preview Python web API on renderer](https://react-tailwind-portfolio-rust.vercel.app/)    |
-| 4.   | Node.js, TypeORM, ECR, EKS                | [Preview Node Postgress web service on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
-| 5.   | Python + DRF + Docker + Github Actions          | [Preview Python DRF on AWS](https://react-tailwind-portfolio-rust.vercel.app/) 
-| 6.   | Node.js GraphQL + Github Actions            | [Preview Graphql on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
-| 7.   | Go, Gin, GORM + Terraform, Github Actions            | [Preview Gin GORM on Renderer](https://react-tailwind-portfolio-rust.vercel.app/) 
+| 1.   | Higher Learning Platform (Go + Gin + Terraform Iac)          | [Github Link](https://github.com/janto-pee/higher-learning-startup/)          |
+| 2.   | Recruitment Platform (Node.js, Docker + Kubernetes)               | [Preview Node web service on AWS](https://github.com/janto-pee/next-generation-recruitment-platform/)              |
+| 3.   | Automobile Company (Python + DRF, Github Actions + AWS)   | [Preview Python web API on renderer](https://github.com/janto-pee/powertrain-automechanic-startup/)    |
+| 4.   | Fintech App (Node.js, TypeORM, ECR, EKS)                | [Preview Node Postgress web service on AWS](https://github.com/janto-pee/digital-bank-startup/) 
+| 5.   | Travel & Tourism (Go + SQLC + Docker + Github Actions)          | [Preview Python DRF on AWS](https://github.com/janto-pee/travel-tourism-startup/) 
+| 6.   | Music Streaming (Node.js GraphQL + Github Actions)            | [Preview Graphql on Renderer](https://github.com/janto-pee/music-streaming-platform/) 
 
 
 
