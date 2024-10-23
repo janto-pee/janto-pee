@@ -111,7 +111,7 @@ module "vpc" {
 | 1.   | Higher Learning Management System               | [Preview Higher Learning Platform on CloudFlare](https://higher-learning-startup.vercel.app/)      |
 | 2.   | Next Generation Recruitment Platform   | [Preview Job Listing on Vercel](https://next-generation-recruitment-platform.vercel.app/)      |
 | 3.   | Travel & Tourism          | [Preview Travel platform on Vercel](https://travel-tourism-startup.vercel.app/)      |
-| 4.   | NFT Platform            | [Preview NFT Platform on Netlify](https://web-3-0-theta.vercel.app/)      |
+| 4.   | NFT Platform            | [Preview NFT Platform on Netlify](https://web-3-0-bice.vercel.app/)      |
 | 5.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://vue-portfolio-rust.vercel.app/)    
 | 6.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
 
