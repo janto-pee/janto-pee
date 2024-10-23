@@ -99,6 +99,8 @@ module "vpc" {
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
+
+| 5.   | Music Streaming           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
 -->
 
 
@@ -106,13 +108,12 @@ module "vpc" {
 
 | S.No | Frontend Projects Title | Deployed Links |
 | ---- | ---------------------------------- | ---------------------------------- |
-| 1.   | Higher Learning Management System               | [Preview Higher Learning Platform on CloudFlare](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 2.   | Next Generation Recruitment Platform   | [Preview Job Listing on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 3.   | Ecommerce Store           | [Preview Ecommerce Store on Vercel](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 4.   | NFT Platform            | [Preview NFT Platform on Netlify](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 5.   | Music Streaming           | [Preview Admin Platform on Cloudflare](https://react-tailwind-portfolio-rust.vercel.app/)      |
-| 6.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://vue-portfolio-rust.vercel.app/)    
-| 7.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
+| 1.   | Higher Learning Management System               | [Preview Higher Learning Platform on CloudFlare](https://higher-learning-startup.vercel.app/)      |
+| 2.   | Next Generation Recruitment Platform   | [Preview Job Listing on Vercel](https://next-generation-recruitment-platform.vercel.app/)      |
+| 3.   | Travel & Tourism          | [Preview Travel platform on Vercel](https://travel-tourism-startup.vercel.app/)      |
+| 4.   | NFT Platform            | [Preview NFT Platform on Netlify](https://web-3-0-theta.vercel.app/)      |
+| 5.  | Vue Portfolio         | [Preview Vue Portfolio on Vercel](https://vue-portfolio-rust.vercel.app/)    
+| 6.   | React Portfolio         | [Preview Portfolio on Vercel](https://afs-portfolio-app.pages.dev/)         |
 
 
 
@@ -124,8 +125,8 @@ module "vpc" {
 | 2.   | Recruitment Platform (Node.js, Docker + Kubernetes)               | [Github Link](https://github.com/janto-pee/next-generation-recruitment-platform/)              |
 | 3.   | Automobile Company (Python + DRF, Github Actions + AWS)   | [Github Link](https://github.com/janto-pee/powertrain-automechanic-startup/)    |
 | 4.   | Fintech App (Node.js, TypeORM, ECR, EKS)                | [Github Link](https://github.com/janto-pee/digital-bank-startup/) 
-| 5.   | Travel & Tourism (Go + SQLC + Docker + Github Actions)          | [Github Link](https://github.com/janto-pee/travel-tourism-startup/) 
-| 6.   | Music Streaming (Node.js GraphQL + Github Actions)            | [Github Link](https://github.com/janto-pee/music-streaming-platform/) 
+| 5.   | Travel & Tourism (Go + SQLC + Docker + Github Actions)          | [Github Link](https://github.com/janto-pee/travel-tourism-platform) 
+| 6.   | Ecommerce (Node.js GraphQL + Github Actions)            | [Github Link](https://github.com/janto-pee/ecommerce-web-service) 
 
 
 
