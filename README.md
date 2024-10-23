@@ -124,7 +124,7 @@ module "vpc" {
 | 1.   | Higher Learning Platform (Go + Gin + Terraform Iac)          | [Github Link](https://github.com/janto-pee/higher-learning-startup/)          |
 | 2.   | Recruitment Platform (Node.js, Docker + Kubernetes)               | [Github Link](https://github.com/janto-pee/next-generation-recruitment-platform/)              |
 | 3.   | Automobile Company (Python + DRF, Github Actions + AWS)   | [Github Link](https://github.com/janto-pee/powertrain-automechanic-startup/)    |
-| 4.   | Fintech App (Node.js, TypeORM, ECR, EKS)                | [Github Link](https://github.com/janto-pee/digital-bank-startup/) 
+| 4.   | Fintech App (Node.js, TypeORM, ECR, EKS)                | [Github Link](https://github.com/janto-pee/fintech-platform) 
 | 5.   | Travel & Tourism (Go + SQLC + Docker + Github Actions)          | [Github Link](https://github.com/janto-pee/travel-tourism-platform) 
 | 6.   | Ecommerce (Node.js GraphQL + Github Actions)            | [Github Link](https://github.com/janto-pee/ecommerce-web-service) 
 
