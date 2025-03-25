@@ -4,7 +4,7 @@
 - 🔭 I’m a chef that cook software (remote DevOps Engineer).
 - 👯 My daily barbeque include Docker, Kubernetes, Helm, Terraform, Ansible, Prometheus, Grafana
 - 🤔 I’m currently learning more on DevOps and Security
-- ⚡ Fun fact: "i love working in a fast paced environment"
+- ⚡ Fun fact: "i love to travel and learn about local culture"
 
 
 ---
