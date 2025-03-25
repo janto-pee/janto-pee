@@ -1,10 +1,9 @@
 ## Hi there 👋, Thank you for visiting my profile!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janto-pee&label=Profile%20views&color=0e75b6&style=flat" alt="janto-pee" /> </p>
 
-- 🔭 I’m currently working on DevOps Projects
-- 👯 I’m looking to collaborate on Docker, Kubernetes, Helm, Terraform, Ansible, Prometheus, Grafana
-- 🤔 I’m currently lerning more on DevOps and Security
-- 💬 Ask me about Fullstack, DevOps, and Security
+- 🔭 I’m a chef that cook software (remote DevOps Engineer).
+- 👯 My daily barbeque include Docker, Kubernetes, Helm, Terraform, Ansible, Prometheus, Grafana
+- 🤔 I’m currently learning more on DevOps and Security
 - ⚡ Fun fact: "i love working in a fast paced environment"
 
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janto-pee&show_icons=true&locale=en&layout=compact" alt="janto-pee" /></p>
