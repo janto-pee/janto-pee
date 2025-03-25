@@ -22,7 +22,7 @@
   [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
   [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=tailwindcss)  
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
