@@ -11,7 +11,7 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
   [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
