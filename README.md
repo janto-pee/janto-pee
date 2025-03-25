@@ -37,10 +37,15 @@
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 ---
-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janto-pee&show_icons=true&locale=en&layout=compact" alt="janto-pee" /></p>
-
+<p align="center">
+<a href="https://github.com/janto-pee">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janto-pee&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janto-pee&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
 
 <!--
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janto-pee&show_icons=true&locale=en&layout=compact" alt="janto-pee" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janto-pee&show_icons=true&locale=en" alt="janto-pee" /></p>
 **janto-pee/janto-pee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/inttter/md-badges
