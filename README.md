@@ -39,9 +39,9 @@
 ---
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janto-pee&show_icons=true&locale=en&layout=compact" alt="janto-pee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janto-pee&show_icons=true&locale=en" alt="janto-pee" /></p>
 
 <!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janto-pee&show_icons=true&locale=en" alt="janto-pee" /></p>
 **janto-pee/janto-pee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/inttter/md-badges
 Here are some ideas to get you started:
